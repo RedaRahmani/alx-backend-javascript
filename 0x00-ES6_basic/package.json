@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "ES6_JavaScript",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "npx babel-node"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
